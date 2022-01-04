@@ -1,0 +1,20 @@
+header {
+    color: white;
+}
+section {
+    padding: 40px;
+}
+.features {
+    background-color: white;
+    columns: #000;
+}
+.quote {
+    background-color: #549ba8;
+    columns: white;
+}
+footer {
+    background-color: #353535;
+    padding: 32px 0;
+    text-align: center;
+    color: #86868;
+}
