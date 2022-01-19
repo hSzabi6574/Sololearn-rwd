@@ -252,9 +252,3 @@ footer li {
 
 .submenu {
     display: none;
-}
-}$(function() {
-    $(".btn").click(function() {
-        $(".submenu").slideToggle(500);
-    });
-   });
